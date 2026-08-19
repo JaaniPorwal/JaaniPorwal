@@ -1,4 +1,6 @@
 # 💫 About Me:
+## Hi, I'm Janvi Porwal 👋
+
 🎓 **B.Tech in Artificial Intelligence & Data Science**  
 🏫 **NMIMS Indore**
 
