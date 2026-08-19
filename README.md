@@ -1,5 +1,14 @@
 # 💫 About Me:
-# Hi, I'm Janvi Porwal 👋<br><br>🎓 **B.Tech — Artificial Intelligence & Data Science | NMIMS Indore**<br><br>I'm passionate about **Data Analytics, Machine Learning, AI, and Business Intelligence**. I build data-driven solutions and intelligent systems using **Python, SQL, Power BI, ML/DL, NLP, and Computer Vision**.<br><br>🏆 **NextGen BizChallenge 2025 Winner | POLARIZER'25 — 2nd Position | SIH Team Lead**<br><br>🚀 Exploring **Data Science, Business Analytics, Product Analytics & Applied AI**.<br><br>> **Turning data into insights and ideas into solutions.**<br>
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+🏫 **NMIMS Indore**
+
+I'm passionate about **Data Analytics, Machine Learning, AI, and Business Intelligence**. I build data-driven solutions using **Python, SQL, Power BI, ML/DL, NLP, and Computer Vision**.
+
+🏆 **NextGen BizChallenge 2025 Winner** | 🥈 **POLARIZER'25 — 2nd Position** | 👩‍💻 **SIH Team Lead**
+
+🚀 Exploring **Data Science, Business Analytics, Product Analytics & Applied AI**.
+
+> **Turning data into insights and ideas into solutions.**
 
 
 ## 🌐 Socials:
